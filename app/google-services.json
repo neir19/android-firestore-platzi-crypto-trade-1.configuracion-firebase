@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "818839432036",
+    "firebase_url": "https://crypto-trade-d0475.firebaseio.com",
+    "project_id": "crypto-trade-d0475",
+    "storage_bucket": "crypto-trade-d0475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818839432036:android:1ca0c45bd1d66d1d7c2871",
+        "android_client_info": {
+          "package_name": "com.platzi.android.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818839432036-g2t48ks83p5hthvv3b82etjgua33shqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwnyHNVAWGM5TKTU4vIqAnvXjCve61quk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818839432036-g2t48ks83p5hthvv3b82etjgua33shqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
